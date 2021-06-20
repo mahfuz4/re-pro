@@ -9,7 +9,10 @@ module.exports = {
       
       container: {
         center: true
-      }
+      },
+      margin: {
+        '-106': '26rem'
+      },
     }
   },
   variants: {
