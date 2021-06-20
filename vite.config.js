@@ -14,5 +14,8 @@ export default {
         // another: resolve(__dirname, 'another.html')
       }
     }
+  },
+  hmr: {
+    overlay: false
   }
 }
