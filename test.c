@@ -35,8 +35,8 @@ int main(){
 
     return 0;
 }
-
-
+//this si soofsdf fsaewfwef
+// fsfwe fweorwer
 // C Program to demonstrate use of bitwise operators
 // #include <stdio.h>
 // int main()
